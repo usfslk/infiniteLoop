@@ -1,6 +1,7 @@
 dependencies:
   firebase: 5.5.6
   formik: 1.3.1
+  infinite-loop-animation: 1.0.0
   react: 16.6.0
   react-dom: 16.6.0
   react-router-dom: 4.3.1
@@ -5387,6 +5388,13 @@ packages:
     dev: false
     resolution:
       integrity: sha1-gtwzbSMrkGIXnQWrMpOmYFn9Q10=
+  /infinite-loop-animation/1.0.0:
+    dev: false
+    peerDependencies:
+      react: ^16.3.0
+      react-dom: ^16.3.0
+    resolution:
+      integrity: sha512-JpsRguhLIVkJs2sgw/6UdDISM6CeZI3RinR0nYu2e2vQL9Q71cWzoq7ZXx2C8yRmCx61218RdrpiU1sSM845Rw==
   /inflight/1.0.6:
     dependencies:
       once: 1.4.0
@@ -10868,6 +10876,7 @@ shrinkwrapVersion: 3
 specifiers:
   firebase: ^5.5.3
   formik: ^1.3.1
+  infinite-loop-animation: ^1.0.0
   react: ^16.5.2
   react-dom: ^16.5.2
   react-router-dom: ^4.3.1
