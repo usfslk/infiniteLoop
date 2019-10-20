@@ -2,7 +2,7 @@
 Dynamic looping of image animations in React. Define an animation with urls or paths, specify a duration, and the animation will repeat for that infinite iterations. You can not change the number of iterations programmatically.
 
 ## Demo
-https://infinite.protobulb.io
+https://infiniteloop-b377c.firebaseapp.com/
 
 ## Usage
 
