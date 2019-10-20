@@ -1,6 +1,6 @@
 {
   "name": "infinite-loop-animation",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Dynamic looping of React animations. Define an animaton with urls, specify a duration, and the animation will repeat for that infinite iterations. You can not change the number of iterations programmatically.",
   "main": "dist/index.js",
   "scripts": {
@@ -13,8 +13,8 @@
     "publish-demo": "npm run build && npm run deploy"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/usfslk/infiniteLoop"
+    "type": "git",
+    "url": "https://github.com/usfslk/infiniteLoop"
   },
   "keywords": [
     "animation",
