@@ -9,7 +9,7 @@ class InfiniteLoop extends Component {
 
 componentDidMount(props) {
         this.loop();
-        setInterval(() => this.loop(), this.props.data.length * this.props.duration);
+        setInterval(() => this.loop(), this.props.duration);
 }
 
 loop(){
